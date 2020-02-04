@@ -1,0 +1,11 @@
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.vbprojAssemblyReference.cache
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Form1.resources
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Resources.resources
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.vbproj.GenerateResource.cache
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\bin\Debug\ConnectFour.xml
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.xml
+C:\Users\Kermo.kevend\source\repos\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
